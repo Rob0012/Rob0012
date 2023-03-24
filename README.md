@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rob0012
-- 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning c++ ,python,java
+- 🌱 I’m currently learning c++ ,python,html,css
 - 💞 beginner
 - 📫 How to reach me purirobin18@gmail.com
 
