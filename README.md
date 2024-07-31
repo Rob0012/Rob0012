@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rob0012
-- 🌱 I’m currently learning c++ ,python,html,css
+- 🌱 I’m currently learning c++,python,Java,Android,html,css
 - 💞 beginner
 - 📫 How to reach me purirobin18@gmail.com
 
